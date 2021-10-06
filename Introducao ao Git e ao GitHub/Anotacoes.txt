@@ -1,0 +1,5 @@
+Comandos Git
+
+Git init – inicia um repositório local
+Git add – criar um versionamento
+Git Commit – criar um commit
